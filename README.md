@@ -12,6 +12,6 @@ This makes it very easy to interact between the two scripting environments. It a
 
 There are two examples shown:
  <ol>
- <li> A simple HTML Editor that uses Tiny MCE. (https://github.com/tinymce/tinymce)
+ <li> A simple HTML Editor that uses either Tiny MCE. (https://github.com/tinymce/tinymce) or Quill (https://quilljs.com/)
  <li> Signature Capture that will save a PNG to a container field. (https://github.com/szimek/signature_pad)
  </ol>
